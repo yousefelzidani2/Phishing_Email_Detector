@@ -1,14 +1,15 @@
+Developed by `Yousef Elzidani` , a first-year cybersecurity and digital forensics student at University of West of England (UWE), this Python-based tool analyses suspicious emails to detect phishing attempts. It uses keyword analysis, link detection, and formatting checks to calculate a confidence score.
 
 # Phishing Email Detector
 
 ## Overview
-This project is a beginner-friendly tool designed to detect phishing emails by analyzing suspicious keywords, embedded links, and unusual formatting patterns. 
+This project is a beginner-friendly tool designed to detect phishing emails by analysing suspicious keywords, embedded links, and unusual formatting patterns. 
 It calculates a confidence score for phishing likelihood and provides a visual summary.
 
 ## Tools and Materials Used
 - Python: The primary programming language for building the project.
-- Matplotlib: Used for visualizing the results via bar charts. Note: Matplotlib builds a font cache during its first run, which can take a few moments.
-- NLTK (Natural Language Toolkit): Processes and analyzes email text, including identifying common words.
+- Matplotlib: Used for visualising the results via bar charts. Note: Matplotlib builds a font cache during its first run, which can take a few moments.
+- NLTK (Natural Language Toolkit): Processes and analyses email text, including identifying common words.
 - Regex: Detects patterns like links in the email text.
 - PyCharm: IDE for writing and testing Python code.
 
@@ -30,7 +31,7 @@ It calculates a confidence score for phishing likelihood and provides a visual s
    Open the project in PyCharm and run the `main.py` script.
 
 3. Input Email Text:
-   Replace the sample email text in the `sample_email` variable within the code.
+   Replace the sample email text in the `email` variable within the code.
 
 4. View Results:
    - Check the terminal output for analysis details (e.g., suspicious keywords, links found, confidence score).
