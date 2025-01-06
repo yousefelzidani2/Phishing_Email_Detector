@@ -1,4 +1,4 @@
-Developed by `Yousef Elzidani` , a first-year cybersecurity and digital forensics student at University of West of England (UWE), this Python-based tool analyses suspicious emails to detect phishing attempts. It uses keyword analysis, link detection, and formatting checks to calculate a confidence score.
+Developed by `ZeroTrustX`.
 
 # Phishing Email Detector "OopsHooked"
 
