@@ -1,4 +1,4 @@
-# Yousef Elzidani
+# ZeroTrustX
 
 # OopsHooked Phishing Email Detector tool
 
